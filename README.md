@@ -24,3 +24,14 @@ Also in project:
 - Multilanguage
 
 
+### Versions
+
+``` 
+"next": "11.0.1",
+"react": "17.0.2",
+"firebase": "^8.8.0",
+"typescript": "4.3.5",
+"@material-ui/core": "^4.12.2",
+"styled-components": "^5.3.0"
+```
+
