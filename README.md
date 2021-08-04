@@ -2,6 +2,8 @@
 
 My version of popular online game [typeracer](https://play.typeracer.com/) build in **Next.js** with firebase in TypeScript.
 
+## Still in built mode
+
 ## Tech Stack
 
 
@@ -24,6 +26,15 @@ Also in project:
 - Multilanguage
 
 
+## For Developers - Usage
+
+1. Download repo to your computer.  ``` git clone https://github.com/kubo550/ecommerce.git ```
+2. Get into project main folder and install all dependencies ``` npm i ``` *or if you are using yarn* ``` yarn ``` 
+3. Create **.env** file add create environment variables. see [example](https://github.com/kubo550/ecommerce/blob/main/.env.example)
+4. Start development server ``` npm run dev ``` *or*  ``` yarn dev ```
+5. Case of any problem fell free to send me direct message on github.
+
+
 ### Versions
 
 ``` 
@@ -34,4 +45,3 @@ Also in project:
 "@material-ui/core": "^4.12.2",
 "styled-components": "^5.3.0"
 ```
-
